@@ -3,5 +3,6 @@ public class pruebaClass {
         int i = 0;
         i++;
         System.out.println("variable i = "+i);
+        // lmao lol
     }
 }
