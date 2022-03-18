@@ -4,5 +4,6 @@ public class pruebaClass {
         i++;
         System.out.println("variable i = "+i);
         // lmao lol
+	// querias decier LMSi League of Legends - Joana
     }
 }
