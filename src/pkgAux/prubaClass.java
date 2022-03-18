@@ -8,6 +8,7 @@ public class pruebaClass {
         i++;
         System.out.println("variable i = "+i);
         // lmao lol
+	      // querias decier LMSi League of Legends - Joana
         // Este comentario lo ha puesto Nico
     }
 }
